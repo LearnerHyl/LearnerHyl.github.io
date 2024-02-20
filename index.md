@@ -1,121 +1,60 @@
 ---
 layout: default
+title: JoyBoy 's Blog
+description: Record some learning notes and some technical blogs
 ---
+# MIT6.5840
+## 1.MapReduce
+[Paper](6.5840/1_MapReduce/论文阅读.html).
 
-[Link to another page](./another-page.html).
+[LectureNotes](6.5840/1_MapReduce/课程笔记.html).
+## 2.GoTutorial
+[TourNotes](6.5840/2_GoTutorial/Gotour.html).
 
-There should be whitespace between paragraphs.
+[LectureNotes](6.5840/2_GoTutorial/课程笔记.html).
+## 5.GoMemoryModel
+[Material](6.5840/5_GoMemoryModel/材料阅读.html).
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[LectureNotes](6.5840/5_GoMemoryModel/课程笔记.html).
 
-# Header 1
+[Guest Lecture On Go](6.5840/5.5_GuestLectureOngo/课程笔记.html).
+## 6.Raft
+[Paper](6.5840/6,7_Raft/raft论文.html).
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[LectureNotes](6.5840/6,7_Raft/课程笔记.html).
+## 11.Cache consistency
 
-## Header 2
+[LectureNotes](6.5840/11_cacheconsistency/Frangipani_notes.html).
+## 12.Distributed Txns
+[Paper](6.5840/12_Distributed-Transactions/材料阅读.html).
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## 13 spanner
+[Paper](6.5840/13_spanner/lec13_spanner.html).
 
-### Header 3
+[LectureNotes](6.5840/13_spanner/spanner课程笔记.html).
+## 14 Optimistic Concurrent Control
+[Paper](6.5840/14_OCC/lec14_Farm.html).
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+[LectureNotes](6.5840/14_OCC/Farm课程笔记.html).
+## 15 Spark
+[Paper](6.5840/15_BigData：Spark/lec15_spark.html).
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+[LectureNotes](6.5840/15_BigData：Spark/spark课程笔记.html).
+## 16 Scaling Memcache
+[Paper](6.5840/16_ScalingMemcache-at-FaceBook/lec16_Scaling_Mem.html).
 
-#### Header 4
+[LectureNotes](6.5840/16_ScalingMemcache-at-FaceBook/lec16_课程笔记.html).
+## 17 Cache Consistency
+[Paper](6.5840/17_Causal-Consistency,COPS/COPS论文阅读.html).
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+[LectureNotes](6.5840/17_Causal-Consistency,COPS/COPS课程笔记.html).
+## 18 Fork Consistency
+[Paper](6.5840/18_Fork-Consistency,Certificate-Transparency/材料阅读.html).
 
-##### Header 5
+[LectureNotes](6.5840/18_Fork-Consistency,Certificate-Transparency/课程笔记.html).
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+[Material](6.5840/18_Fork-Consistency,Certificate-Transparency/TransparentLogsforSkepticalClients.html).
+## 19 BitCoins
+[Paper](6.5840/19_BitCoins/论文阅读.html).
 
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+[LectureNotes](6.5840/19_BitCoins/课程笔记.html).
