@@ -1,12 +1,17 @@
-### [1_introduction](cs106x/1_introduction.html).
-### [2_Functions](cs106x/2_Functions.html).
-### [3_Strings](cs106x/3_Strings.html).
-### [4_Streams](cs106x/4_Streams,Grid.html).
-### [5_vector](cs106x/5_vector.html).
-### [5.5_LinkedList_and_ADT](cs106x/5.5_LinkedList_and_ADT.html).
-### [6_Stack,Queues](cs106x/6_Stack,Queues.html).
-### [7_Sets_Maps](cs106x/7_Sets_Maps.html).
-### [8_Recursion](cs106x/8_Recursion.html).
-### [9_Exhaustive_Search](cs106x/9_Exhaustive_Search.html).
-### [10_Backtracking](cs106x/10_Backtracking.html).
-### [11_pointerAndNodes](cs106x/11_pointerAndNodes.html).
+---
+layout: default
+title: CS106X
+description: CS106X的课程学习笔记
+---
+### [1_introduction](1_introduction.html).
+### [2_Functions](2_Functions.html).
+### [3_Strings](3_Strings.html).
+### [4_Streams](4_Streams,Grid.html).
+### [5_vector](5_vector.html).
+### [5.5_LinkedList_and_ADT](5.5_LinkedList_and_ADT.html).
+### [6_Stack,Queues](6_Stack,Queues.html).
+### [7_Sets_Maps](7_Sets_Maps.html).
+### [8_Recursion](8_Recursion.html).
+### [9_Exhaustive_Search](9_Exhaustive_Search.html).
+### [10_Backtracking](10_Backtracking.html).
+### [11_pointerAndNodes](11_pointerAndNodes.html).
