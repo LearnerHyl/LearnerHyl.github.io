@@ -15,3 +15,12 @@ description: CS106X的课程学习笔记
 ### [9_Exhaustive_Search](9_Exhaustive_Search.html).
 ### [10_Backtracking](10_Backtracking.html).
 ### [11_pointerAndNodes](11_pointerAndNodes.html).
+### [12_LinkedLists](12_LinkedLists.html).
+### [13_classes](13_classes.html).
+### [14_arrays](14_Arrays_and_templates.html).
+### [15_Graph Algorithm](15_Graph_Algorithm.html).
+### [16_Graph_spanningTree](16_Graph_SpanningTrees.html).
+### [17_Inheritance_and_Polymorphism](17_Inheritance_and_Polymorphism.html).
+### [18_Hashing](18_Hashing.html).
+### [19_Sorting](19_Sorting.html).
+### [20_Templates,STL,SmartPtr](20_Templates,STL,SmartPtr.html).
